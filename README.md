@@ -5,6 +5,7 @@ This is an obsidian repository with community plugins "Folder Note" (https://git
 I don't want to attribute myself credits other than the fact that I made this repo. Some pages are copied from the web and should be indicated as so.
 If you feel you should have been credited in the sources or you don't want your article to be copied in this repo, please send me a mail and I'll make the changes. 
 
+For now this repo is in V0, some pages are placeholders, some others are not fully translated, hopefully I'll change that soon
 Every participation is greatly appreciated, so don't hesitate to make a PR :).
 
 # How to use
