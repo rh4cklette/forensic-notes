@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "4d57c5ca2ea32f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3e2615ca9ff94ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b8fcceb29c6c113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/Event ID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Event ID"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30e2350dee33ca80",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fe56646d2e5fbe0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d44548fc3509a472",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c5192ac7b26cf0b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07ed544303a91fca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "724027c69d092c3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "972ec3d99dc7e8af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12ab5a0e00d680e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fiches apprentissage/SIEMs/Sentinel One.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sentinel One"
+            }
+          },
+          {
+            "id": "4a6c5f99ef016ca3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fiches apprentissage/Notes Chronicle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notes Chronicle"
+            }
+          },
+          {
+            "id": "d7f579e46647caf0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17cdc78ed324782a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fiches apprentissage/Event ID.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Event ID"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5b8fcceb29c6c113",
+  "lastOpenFiles": [
+    "Windows/Registry Forensic (FR).md",
+    "Windows/Windows.md",
+    "Amazing articles to learn.md",
+    "Forensics.md",
+    "Windows/Tools/Tools.md",
+    "Linux/Persistence/Persistence.md",
+    "Memory forensic/Memory forensic.md",
+    "Memory forensic/Volatility/Volatility.md",
+    "Memory forensic/Volatility/0 - Cheat sheet.md",
+    "Other conventional systems/ESXi (VMWare)/1 - Practical case.md",
+    "Linux/Tools/UAC.md",
+    "Linux/Tools/TSK.md",
+    "Linux/Files/File of interest.md",
+    "Linux/Files/0 - Analysis checklist.md",
+    "Authentication Attacks/Authentication Attacks.md",
+    "Authentication Attacks/NTLM/Pass-the-hash.md",
+    "Authentication Attacks/NTLM/NTLM fonctionnement.md",
+    "Authentication Attacks/Kerberos/UNPac the hash.md",
+    "Authentication Attacks/Kerberos/Silver and Golden tickets.md",
+    "Authentication Attacks/Kerberos/Pass-the-ticket.md",
+    "Authentication Attacks/Kerberos/Pass the key OR Overpass the hash.md",
+    "Authentication Attacks/Kerberos/AS-REQ Roast.md",
+    "Authentication Attacks/Kerberos/AS-REP Roasting.md",
+    "Authentication Attacks/Kerberos/DACL-ACE attacks/SPN Jacking.md",
+    "Authentication Attacks/Kerberos/DACL-ACE attacks/Shadow Credentials.md",
+    "Authentication Attacks/Kerberos/DACL-ACE attacks/Abusing RBCD.md",
+    "Authentication Attacks/AD CS/sed2D0X3q",
+    "Forensic_notes/Attachments/Pasted image 20260205140414.png",
+    "Forensic_notes/Attachments/Pasted image 20260205141510.png",
+    "Forensic_notes/Attachments/ServiceCreation.png",
+    "Forensic_notes/Attachments/SRUM.png",
+    "Forensic_notes/Attachments/UAL_picture1.png",
+    "Forensic_notes/Attachments/VMware.jpg",
+    "Forensic_notes/Attachments/Volatility_mindmap_1.png",
+    "Forensic_notes/Attachments/volatility_mindmap_2 1.png",
+    "Forensic_notes/Attachments/Volatility_processes.png",
+    "Forensic_notes/Attachments/Volatility_profile.png",
+    "Forensic_notes/Windows/Tools/Analyse Machine",
+    "Forensic_notes/Windows/Tools",
+    "Forensic_notes/Windows/Execution",
+    "Forensic_notes/Windows/File knowledge",
+    "Forensic_notes/Windows/Persistance",
+    "Forensic_notes/Windows/Credential dumping",
+    "Forensic_notes/Windows",
+    "Forensic_notes/Other conventional systems/Wordpress",
+    "Forensic_notes/Other conventional systems/ESXi (VMWare)",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Windows/Untitled.canvas"
+  ]
+}
