@@ -1,4 +1,4 @@
-# forensic-notes
+# Forensic-notes
 Forensic notes with sources, as I would have loved to find them when I started in this field.
 This is an obsidian repository with community plugins "Folder Note" (https://github.com/xpgo/obsidian-folder-note-plugin) and "Waypoint" (https://github.com/IdreesInc/Waypoint).
 
