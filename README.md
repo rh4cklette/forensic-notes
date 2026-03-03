@@ -20,7 +20,7 @@ Start with a category that you want to learn. Learn the theory, try to manualy l
 
 
 # License 
-As this was created with beeing free and helpfull to beginners, this repo should stay free and modifiable. Fork it, change it, translate it but don't sell it.
+As this was created with beeing free and helpfull to beginners in mind, this repo should stay free and modifiable. Fork it, change it, translate it but don't sell it.
 Therefore this repo is under Attribution-NonCommercial-ShareAlike 4.0 International : 
 
 Copyright (c) 2026 Rh4cklette
